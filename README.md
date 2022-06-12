@@ -17,3 +17,5 @@ Install node modules by runing command npm install inside of terminal  // termin
 run json server by runing command    json-server --watch data/db.json --port 5000     in terminal at top level
 
 Run code with using npm start command inside of terminal at top level.
+
+I had a problem with the json server I would often stop watching db.json . if the page doesn't work as it should, see if the json server is turned on.
