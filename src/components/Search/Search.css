@@ -1,0 +1,9 @@
+.search-input-style {
+  margin-left: 10px;
+  height: 20px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid gray;
+  letter-spacing: 1px;
+  padding: 5px;
+}

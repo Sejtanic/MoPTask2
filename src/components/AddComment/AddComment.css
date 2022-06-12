@@ -1,0 +1,14 @@
+.post-comment-style {
+  margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.post-comment-style textarea {
+  resize: none;
+  /* min-height: 50px; */
+  outline: none;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+}

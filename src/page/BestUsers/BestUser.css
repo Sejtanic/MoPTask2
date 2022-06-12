@@ -1,0 +1,11 @@
+.best-user-style {
+  margin: 10px auto;
+  width: 400px;
+  text-align: center;
+}
+.best-user-style p {
+  box-shadow: var(--shadow);
+  padding: 10px 15px;
+  margin: 10px;
+  border-radius: 10px;
+}

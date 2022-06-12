@@ -1,0 +1,23 @@
+.like-section-style {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: lightgrey;
+  padding: 3px 10px;
+  border-radius: 10px;
+}
+.like-section-style p {
+  margin: 0px 5px;
+  font-size: 13px;
+  font-weight: normal;
+  cursor: pointer;
+}
+.like-style {
+  color: white;
+  /* text-shadow: 0px 0px 2px black; */
+  -webkit-text-stroke: 1px black;
+  margin: 3px 5px;
+}
+.red {
+  color: red;
+}

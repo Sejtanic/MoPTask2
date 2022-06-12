@@ -1,0 +1,15 @@
+.comment-style {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 3px 10px;
+  background-color: lightgrey;
+  border-radius: 10px;
+  text-align: center;
+  margin: 0 5px;
+  cursor: pointer;
+}
+.comment-style p {
+  font-size: 13px;
+  margin: 0 3px;
+}

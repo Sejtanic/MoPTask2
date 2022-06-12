@@ -1,0 +1,13 @@
+.notification-post-style {
+  background-color: white;
+  text-align: center;
+  width: 60%;
+  box-shadow: var(--shadow);
+
+  padding: 5px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+.notification-post-style p {
+  margin: 0;
+}

@@ -1,0 +1,39 @@
+.siteFrame {
+  width: 100%;
+  height: auto;
+}
+.site-logo-search-style {
+  display: flex;
+  letter-spacing: 5px;
+}
+.site-navigation-style {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  height: 70px;
+  background-color: white;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+  position: sticky;
+  top: 0;
+}
+.site-navigation-links {
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.site-navigation-links a {
+  text-decoration: none;
+  color: black;
+  margin: 10px 5px;
+  letter-spacing: 1px;
+  padding: 3px 10px;
+  border-radius: 10px;
+  transition: all 0.3s;
+}
+.site-navigation-links a:hover {
+  background-color: lightblue;
+}

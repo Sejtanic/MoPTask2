@@ -1,0 +1,12 @@
+.button-style {
+  margin: 10px auto;
+  padding: 3px 15px;
+  font-size: 16px;
+  border-radius: 5px;
+  letter-spacing: 1px;
+  border: 1px solid grey;
+  transition: all 0.2s ease-in-out;
+}
+.button-style:hover {
+  background-color: lightgray;
+}

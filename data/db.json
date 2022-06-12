@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "name": "haris",
+      "email": "b@gmail.com",
+      "password": "kkkkk",
+      "notifications": [
+        {
+          "type": "commented on your post",
+          "user": "haris",
+          "date": "12.06.2022",
+          "content": "add comment"
+        },
+        {
+          "type": "commented on your post",
+          "user": "haris",
+          "date": "12.06.2022",
+          "content": "add comment"
+        },
+        {
+          "type": "liked your post",
+          "user": "haris",
+          "date": "12.06.2022",
+          "content": ""
+        },
+        {
+          "type": "liked your post",
+          "user": "haris",
+          "date": "12.06.2022",
+          "content": ""
+        },
+        {
+          "type": "commented on your post",
+          "user": "haris",
+          "date": "12.06.2022",
+          "content": "this is my test comment"
+        }
+      ],
+      "activity": [
+        {
+          "type": "Created post",
+          "date": "12.06.2022",
+          "content": "this is my secont test post"
+        },
+        {
+          "type": "Created post",
+          "date": "12.06.2022",
+          "content": "ll"
+        },
+        {
+          "type": "Commented on post",
+          "date": "12.06.2022",
+          "content": "add comment"
+        },
+        {
+          "type": "Commented on post",
+          "date": "12.06.2022",
+          "content": "add comment"
+        },
+        {
+          "type": "liked",
+          "date": "12.06.2022",
+          "content": ""
+        },
+        {
+          "type": "liked",
+          "date": "12.06.2022",
+          "content": ""
+        },
+        {
+          "type": "Created post",
+          "date": "12.06.2022",
+          "content": "kk"
+        },
+        {
+          "type": "Created post",
+          "date": "12.06.2022",
+          "content": "this is my second test post"
+        },
+        {
+          "type": "Commented on post",
+          "date": "12.06.2022",
+          "content": "this is my test comment"
+        },
+        {
+          "type": "Created post",
+          "date": "12.06.2022",
+          "content": "this is my test post"
+        }
+      ],
+      "notificationCounter": 0,
+      "id": 1
+    }
+  ],
+  "posts": [
+    {
+      "user": "haris",
+      "content": "this is my test post",
+      "date": "12.06.2022",
+      "timestamp": 1655034327920,
+      "likes": [],
+      "comments": [
+        {
+          "user": "haris",
+          "content": "this is my test comment",
+          "id": 0.18796566785264845
+        }
+      ],
+      "id": 1
+    },
+    {
+      "user": "haris",
+      "content": "this is my second test post",
+      "date": "12.06.2022",
+      "timestamp": 1655040441842,
+      "likes": [],
+      "comments": [],
+      "id": 2
+    }
+  ]
+}
