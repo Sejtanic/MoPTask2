@@ -2,7 +2,7 @@ Hello
 
 This is my task done in a different way
 
-I decided to do the same task 2 times because I didn't know many things that were required in the task for the first time. For example, I didn't know how to use CRUD Redux saga or redux thunk. wasted too much time so I decided to do them in the end if I succeed.In the end I managed the only way I managed is not elegant.I also made a lot of mistakes in the react structure
+I decided to do the same task 2 times because I didn't know many things that were required in the task for the first time. For example, I didn't know how to use CRUD Redux saga or redux thunk. wasted too much time so I decided to do them in the end if I succeed.In the end I managed but the only way I managed is not elegant.I also made a lot of mistakes in the react structure
 
 During this project I used the CRUD technique which I did not use during the first project. I made a lot of visual changes that seemed better to me. I implemented the Load More functionality better. I also implemented the Edit functionality.
 I replaced the fetch with axios
