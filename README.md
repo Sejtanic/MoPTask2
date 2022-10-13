@@ -19,3 +19,15 @@ run json server by runing command    json-server --watch data/db.json --port 500
 Run code with using npm start command inside of terminal at top level.
 
 I had a problem with the json server I would often stop watching db.json . if the page doesn't work as it should, see if the json server is still turned on.
+
+implemented
+
+-User Registration
+-Add Post 
+-Like Post 
+-Comment on Post 
+-Pagination / Load More
+-Dispay Post by Number of comments/likes 
+-Edit / Delete post
+-Notifications 
+
