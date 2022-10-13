@@ -40,3 +40,7 @@ implemented
 
 -Search Posts
 
+-Change Email
+
+-Change Password
+
