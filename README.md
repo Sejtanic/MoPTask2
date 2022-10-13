@@ -23,11 +23,20 @@ I had a problem with the json server I would often stop watching db.json . if th
 implemented
 
 -User Registration
+
 -Add Post 
+
 -Like Post 
+
 -Comment on Post 
+
 -Pagination / Load More
+
 -Dispay Post by Number of comments/likes 
+
 -Edit / Delete post
+
 -Notifications 
+
+-Search Posts
 
